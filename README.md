@@ -1,4 +1,4 @@
-# UC-projeto-2025-pYPKmu-pUCmupw
+# pYPKmu
 
 ![img](assets/strategy.png)
 
